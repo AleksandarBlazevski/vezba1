@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 20 L50 20 L60 30 L70 20 L90 20 L75 40 L90 60 L70 60 L60 50 L50 60 L30 60 L45 40 L30 20" fill="none" stroke="#3B82F6" stroke-width="4"/>
+  <path d="M100 20 L120 20 L135 40 L120 60 L100 60 L85 40 L100 20" fill="none" stroke="#3B82F6" stroke-width="4"/>
+  <text x="30" y="90" font-family="Arial" font-size="24" fill="#3B82F6">deWorks</text>
+</svg>
