@@ -36,7 +36,7 @@ export default function Services() {
       <div className="fixed inset-0 bg-gradient-mesh opacity-100"></div>
       
       <Head>
-        <title>Services - DevWorks</title>
+        <title>Services - NGC Next Generation Code</title>
         <meta name="description" content="Professional software development services" />
       </Head>
 

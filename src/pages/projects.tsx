@@ -40,7 +40,7 @@ export default function Projects() {
       <div className="fixed inset-0 bg-gradient-mesh opacity-100"></div>
       
       <Head>
-        <title>Projects - DevWorks</title>
+        <title>Projects - NGC Next Generation Code</title>
         <meta name="description" content="Our portfolio of successful projects" />
       </Head>
 

@@ -27,7 +27,7 @@ export default function Home() {
       </div>
 
       <Head>
-        <title>DevWorks - Modern Software Solutions</title>
+        <title>NGC Next Generation Code - Modern Software Solutions</title>
         <meta name="description" content="Professional software development services" />
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -139,7 +139,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-2xl font-bold mb-6 md:mb-0 text-gradient">
-              DevWorks
+            NGC Next Generation Code
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-secondary-light/80 dark:text-secondary-dark/80 hover:text-primary-light dark:hover:text-primary-dark transition-colors">
@@ -151,7 +151,7 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-8 text-center text-secondary-light/60 dark:text-secondary-dark/60">
-            &copy; 2025 DevWorks. All rights reserved.
+            &copy; 2025 NGC <span className="text-sm">next generation code</span>. All rights reserved.
           </div>
         </div>
       </footer>

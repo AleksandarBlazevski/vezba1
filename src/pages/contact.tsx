@@ -9,7 +9,7 @@ export default function Contact() {
       <div className="fixed inset-0 bg-gradient-mesh opacity-100"></div>
       
       <Head>
-        <title>Contact - DevWorks</title>
+        <title>Contact - NGC Next Generation Code</title>
         <meta name="description" content="Get in touch with us" />
       </Head>
 
@@ -94,7 +94,7 @@ export default function Contact() {
                   <FaEnvelope className="w-6 h-6 text-primary-light dark:text-primary-dark mt-1" />
                   <div>
                     <h3 className="text-lg font-semibold text-secondary-light dark:text-secondary-dark">Email</h3>
-                    <p className="text-secondary-light/80 dark:text-secondary-dark/80">contact@devworks.com</p>
+                    <p className="text-secondary-light/80 dark:text-secondary-dark/80">contact@NGC.com</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
